@@ -1,0 +1,12 @@
+src/automacao.py
+    LOC: 161
+    LLOC: 96
+    SLOC: 90
+    Comments: 1
+    Single comments: 10
+    Multi: 34
+    Blank: 27
+    - Comment Stats
+        (C % L): 1%
+        (C % S): 1%
+        (C + M % L): 22%
